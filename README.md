@@ -3,7 +3,7 @@
 
 Binderの仮想環境でサンプルコードを実行できます（ただし，slycotをimportする関数は使えません）
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/373yuki/pyctrl2/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/373yuki/pyctrl2/main)
 
 ## Pythonコード
 書籍の中に記載したPythonコードや補足のPythonコードです．
