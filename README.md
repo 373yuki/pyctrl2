@@ -1,5 +1,5 @@
 # pyctrl2
-『Pythonによる制御工学入門改（訂２版）』のサポート
+『Pythonによる制御工学入門（改訂２版）』のサポート
 
 ## Pythonコード
 書籍の中に記載したPythonコードや補足のPythonコードです．
@@ -9,9 +9,9 @@ Jupyter Notebook 形式（ipynb形式）となっていますので，ダウン�
 
 ## 必要なもの
 - Python 3.6 以降
+- Matplotlib
 - NumPy
 - SciPy
-- Matplotlib
 - SymPy
 - JupyterNotebook (JupyterLab)
 - Slycot
