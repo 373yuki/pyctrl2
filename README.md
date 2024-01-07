@@ -28,6 +28,7 @@ Jupyter Notebook 形式（ipynb形式）となっていますので，ダウン�
 - Julia 1.10
 - IJuia
 - ControlSystems
+- RobustAndOptimalControl
 - Plots
 - LinearAlgebra
 - DifferentialEquations
