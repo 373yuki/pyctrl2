@@ -11,7 +11,7 @@ Binderの仮想環境でサンプルコードを実行できます（ただし�
 
 Jupyter Notebook 形式（ipynb形式）となっていますので，ダウンロード後，JupyterNotebook上にアップロードして利用してください．
 
-## Pythonコード実行に必要なもの
+## Pythonコード実行に必要なものs
 - Python 3.6 以降
 - Matplotlib
 - NumPy
@@ -22,7 +22,7 @@ Jupyter Notebook 形式（ipynb形式）となっていますので，ダウン�
 - Control
 
 ## Juliaコード
-書籍の中に記載したPythonコードをJulia用に書き換えました．ただし，数式処理やロバスト制御の部分など一部は未実装です．
+書籍の中に記載したPythonコードをJulia用に書き換えました．ただし，数式処理やロバスト制御，最適制御など一部は未実装です．
 
 ## Juliaコード実行に必要なもの
 - Julia 1.10
@@ -34,8 +34,9 @@ Jupyter Notebook 形式（ipynb形式）となっていますので，ダウン�
 - Symbolics
 
 ## MATLABコード
-書籍の中に記載したPythonコードをMATLAB用に書き換えました．PythonとMATLABの親和性の高さがわかります．
+書籍の中に記載したPythonコードをMATLAB用に書き換えました．ただし，最適制御（モデル予測制御）の部分は未実装です．
 ライブスクリプト形式（mlx形式）となっています．plot_setとbodeplot_setも同じフォルダに入れてください．
+MATLAB Drive（5GBまで無料）にファイルをコピーしてから，MATLAB Mobile（無料）を利用すれば，MATLABライセンス不要でコードを実行することができます．
 
 ## 書籍のサポートページ
 https://y373.sakura.ne.jp/minami/pyctrl
