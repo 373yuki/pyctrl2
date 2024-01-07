@@ -25,9 +25,9 @@ Jupyter Notebook 形式（ipynb形式）となっていますので，ダウン�
 書籍の中に記載したPythonコードをJulia用に書き換えました．ただし，数式処理やロバスト制御の部分など一部は未実装です．
 
 ## Juliaコード実行に必要なもの
-- Julia 1.10 
+- Julia 1.10
 - IJuia
-- ControlSystems ()
+- ControlSystems
 - Plots
 - LinearAlgebra
 - DifferentialEquations
