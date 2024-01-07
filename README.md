@@ -33,6 +33,8 @@ Jupyter Notebook 形式（ipynb形式）となっていますので，ダウン�
 - LinearAlgebra
 - DifferentialEquations
 - Symbolics
+- JuMP
+- Ipopt
 
 ## MATLABコード
 書籍の中に記載したPythonコードをMATLAB用に書き換えました．ただし，最適制御（モデル予測制御）の部分は未実装です．
