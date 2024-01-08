@@ -11,7 +11,7 @@ Binderの仮想環境でサンプルコードを実行できます（ただし�
 
 Jupyter Notebook 形式（ipynb形式）となっていますので，ダウンロード後，JupyterNotebook上にアップロードして利用してください．
 
-## Pythonコード実行に必要なものs
+## Pythonコード実行に必要なもの
 - Python 3.6 以降
 - Matplotlib
 - NumPy
