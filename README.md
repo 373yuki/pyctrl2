@@ -19,7 +19,7 @@ Jupyter Notebook 形式（ipynb形式）となっていますので，ダウン�
 - SymPy
 - JupyterNotebook (JupyterLab)
 - Slycot
-- Control
+- Control (執筆時は0.9.4です．最新版でも一部機能を除いて動作します)
 
 ## Juliaコード
 書籍の中に記載したPythonコードをJulia用に書き換えました．ただし，数式処理やモデル予測制御の部分は未実装です．
